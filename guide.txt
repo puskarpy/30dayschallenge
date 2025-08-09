@@ -1,0 +1,86 @@
+Week 1 – Pure JS Data Handling
+
+Focus: arrays, objects, and functions
+
+    Day 1: Add/Remove items from an array (e.g., a todo list in JS only).
+
+    Day 2: Count how many times a word appears in a string.
+
+    Day 3: Find the largest number in an array.
+
+    Day 4: Sort products by price.
+
+    Day 5: Filter numbers > 50.
+
+    Day 6: Merge two arrays and remove duplicates.
+
+    Day 7: Review & refactor your week’s code.
+
+Week 2 – DOM Simulation in JS
+
+Focus: simulating UI logic without UI
+
+    Day 8: Simulate a counter with start/stop/reset functions.
+
+    Day 9: Simulate a login system (check username/password in an array).
+
+    Day 10: Manage a shopping cart array (add/remove/update qty).
+
+    Day 11: Search a list of users by name.
+
+    Day 12: Simulate pagination (split array into chunks of 5 items).
+
+    Day 13: Group products by category (object of arrays).
+
+    Day 14: Review & refactor.
+
+Week 3 – React Integration
+
+Focus: taking your JS logic and putting it in React
+
+    Day 15: Counter app with buttons (useState).
+
+    Day 16: Todo list (add/remove) from Week 1 logic.
+
+    Day 17: Filterable product list (search input).
+
+    Day 18: Shopping cart with quantities.
+
+    Day 19: Login form (fake auth check).
+
+    Day 20: Pagination UI with buttons.
+
+    Day 21: Review & refactor.
+
+Week 4 – Combined Features
+
+Focus: mini-projects that combine multiple logics
+
+    Day 22: Notes app with search & delete.
+
+    Day 23: Expense tracker (add, delete, total amount).
+
+    Day 24: Quiz app (track score, show final result).
+
+    Day 25: Weather app (fetch API + display).
+
+    Day 26: Product list with cart & filter.
+
+    Day 27: Countdown timer app.
+
+    Day 28: Review & refactor.
+
+    Day 29: Pick your weakest challenge and redo it without looking at old code.
+
+    Day 30: Build a final mini app using 3+ of the above logics.
+
+
+🛠️ Rules for Every Challenge
+
+    Solve in plain JS first — prove the logic works before UI.
+
+    No copy‑paste from me/tutorials — if stuck, read concepts, not the answer.
+
+    Write comments explaining what each part does.
+
+    Push to GitHub — track your progress.
