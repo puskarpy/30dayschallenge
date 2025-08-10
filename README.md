@@ -1,12 +1,60 @@
-# React + Vite
+# 30 Days of React Challenges
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to 30 Days of React Challenges — a fun and practical series designed to help you sharpen your React skills day by day!
 
-Currently, two official plugins are available:
+## Each day features a small React project or task that covers core concepts like:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Managing state with useState
 
-## Expanding the ESLint configuration
+    Handling user inputs and events
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    Rendering lists and components dynamically
+
+    Implementing sorting, filtering, and logic
+
+    Working with forms and validation
+
+    Understanding React’s rendering and updates
+
+## What’s Inside?
+
+You’ll find challenges like:
+
+    Counting word occurrences in a string
+
+    Finding the largest number in a list
+
+    Sorting products by price with interactive UI
+
+    Building simple CRUD-like interfaces
+
+    And more!
+
+Every task focuses on applying React fundamentals in a clear, hands-on way to build confidence and understanding.
+## How to Use This Repo
+
+    Clone or download the project
+
+    Check out each day’s folder or component
+
+    Try to build the challenge yourself first
+
+    Refer to the solutions if you get stuck
+
+    Customize and experiment to deepen your learning
+
+## Who Is This For?
+
+Beginners and intermediate React developers who want to:
+
+    Strengthen their React core knowledge
+
+    Build a solid portfolio of small projects
+
+    Practice JavaScript and React patterns in real-world scenarios
+
+Ready to Level Up Your React Skills?
+
+Jump in and start coding your way through the 30 days!
+
+Happy coding! 🚀
