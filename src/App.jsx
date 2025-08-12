@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Todo, WordCount, FindLargest, CartItems  } from './components'
+import { Todo, WordCount, FindLargest, CartItems, FilterNumber  } from './components'
 
 function App() {
 
@@ -9,7 +9,8 @@ function App() {
       {/* <Todo/> */}
       {/* <WordCount/> */}
       {/* <FindLargest/> */}
-      <CartItems/>
+      {/* <CartItems/> */}
+      <FilterNumber/>
     </>
   )
 }
